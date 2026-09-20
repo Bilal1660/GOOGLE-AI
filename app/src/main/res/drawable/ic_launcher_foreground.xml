@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Receipt document background card -->
+    <path
+        android:pathData="M34,26 L66,26 A4,4 0 0,1 70,30 L70,78 L65,74 L60,78 L55,74 L50,78 L45,74 L40,78 L35,74 L30,78 L30,30 A4,4 0 0,1 34,26 Z"
+        android:fillColor="#F8FAFC" />
+    
+    <!-- Receipt top accent header bar -->
+    <path
+        android:pathData="M34,26 L66,26 A4,4 0 0,1 70,30 L70,36 L30,36 L30,30 A4,4 0 0,1 34,26 Z"
+        android:fillColor="#10B981" />
+
+    <!-- Receipt item lines -->
+    <path
+        android:pathData="M36,43 L54,43"
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M59,43 L64,43"
+        android:strokeColor="#64748B"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M36,50 L48,50"
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M55,50 L64,50"
+        android:strokeColor="#64748B"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+
+    <!-- Stylized Coin & Trend Emblem Badge on bottom-right -->
+    <!-- Badge shadow / border -->
+    <path
+        android:pathData="M66,66 A15,15 0 1,0 66,66.01 Z"
+        android:fillColor="#0F172A" />
+    <!-- Badge body -->
+    <path
+        android:pathData="M66,66 A13,13 0 1,0 66,66.01 Z"
+        android:fillColor="#F59E0B" />
+    <!-- Inner gold ring -->
+    <path
+        android:pathData="M66,66 A10.5,10.5 0 1,0 66,66.01 Z"
+        android:fillColor="#FBBF24" />
+    <!-- Upward financial growth arrow in badge -->
+    <path
+        android:pathData="M60,71 L66,65 L69,68 L73,61"
+        android:strokeColor="#78350F"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M70,61 L73,61 L73,64"
+        android:strokeColor="#78350F"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

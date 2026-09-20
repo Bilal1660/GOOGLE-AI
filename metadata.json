@@ -1,0 +1,6 @@
+{
+  "name": "Expense Manager",
+  "description": "Full-fledged expense manager with AI receipt scanning, budget tracking, and real-time multi-device synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
